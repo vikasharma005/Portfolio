@@ -99,24 +99,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Machine Learning Intern',
-    company_name: 'Microsoft',
-    icon: microsoft,
-    iconBg: '#383E56',
-    date: 'June 2019 - July 2019',
-    points: [
-      'Completed a summer internship in Machine Learning using Python with A+ grade.',
-      'Worked on analysis of machine learning algorithms for detecting abnormalities and electricity theft.',
-      'Analyzed data from smart meters to train Linear, Quadratic Regression models to predict theft with a minimum RMSE value of 0.06.',
-      'Participating in code reviews and providing feedback on machine learning code and implementations.',
-    ],
-  },
-  {
-    title: 'Robotics Workshop',
-    company_name: 'Adani Institute of Infrastructure Engineering',
+    title: 'Aerospace Researcher',
+    company_name: 'ORBITX INDIA AEROSPACE (p) LTD',
     icon: adani,
     iconBg: '#E6DEDD',
-    date: 'Mar 2019 - Aug 2019',
+    date: 'Aug 2022 - Jun 2023',
     points: [
       'Leader of a research team that created and manipulated a robot through Arduino programming which cleans and paints the chimney of a thermal power plant.',
       'Conducting robotics workshop for junior students.',
@@ -125,11 +112,11 @@ const experiences = [
     ],
   },
   {
-    title: 'Data Science Intern',
-    company_name: 'BN Technologies',
+    title: 'Content Writer',
+    company_name: 'GeeksforGeeks',
     icon: bn_software,
     iconBg: '#383E56',
-    date: 'Mar 2021 - Aug 2021',
+    date: 'Jan 2023 - July 2023',
     points: [
       'Worked on Time Series-based Data Analysis for Taxi Service.',
       'Created analysis and visualisation tools to analyse the behaviour of our agents.',
@@ -138,16 +125,33 @@ const experiences = [
     ],
   },
   {
-    title: 'Master Internship: 3GPP RAN4 AI',
-    company_name: 'Ericsson',
-    icon: ericsson,
+    title: 'CEO & Founder',
+    company_name: 'PIE STAR INTERACTIVE STUDIOS',
+    icon: adani,
     iconBg: '#E6DEDD',
-    date: 'Mar 2023 - Present',
+    date: 'Jan 2022 - Present',
     points: [
       'Working on optimization of OFDM using Deep Learning.',
       'Currently working on cGAN and trying to develop an advanced algorithm for optimization of OFDM.',
       'Reviewed state of the art on OFDM 5G NR and developed a novel solution for the project task.',
       'Learning about 3GPP 5G NR standard through mentors, video lectures and meetings.',
+    ],
+  },
+  {
+    title: 'Machine Learning Intern',
+    company_name: 'Poornima Institute of Engineering and Technology',
+    icon: microsoft,
+    iconBg: '#383E56',
+    date: 'July 2023 - September 2023',
+    points: [
+      'Completed a summer internship in Machine Learning using Python with A+ grade.',
+      'Worked on analysis of machine learning algorithms for detecting abnormalities and electricity theft.',
+      'Analyzed data from smart meters to train Linear, Quadratic Regression models to predict theft with a minimum RMSE value of 0.06.',
+      'Participating in code reviews and providing feedback on machine learning code and implementations.',
+      'Worked on Time Series-based Data Analysis for Taxi Service.',
+      'Created analysis and visualisation tools to analyse the behaviour of our agents.',
+      'Implemented a Recommendation Systems for our delivery application.',
+      'Staying updated with the latest advancements and best practices in data science through self-learning and research.'
     ],
   },
 ];
