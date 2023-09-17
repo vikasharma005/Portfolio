@@ -115,7 +115,7 @@ const experiences = [
     title: 'Content Writer',
     company_name: 'GeeksforGeeks',
     icon: bn_software,
-    iconBg: '#008000',
+    iconBg: '#E6DEDD',
     date: 'Jan 2023 - July 2023',
     points: [
       'Worked on Time Series-based Data Analysis for Taxi Service.',
