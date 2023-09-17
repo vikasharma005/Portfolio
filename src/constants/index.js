@@ -148,7 +148,7 @@ const experiences = [
     title: 'Machine Learning Intern',
     company_name: 'Poornima Institute of Engineering and Technology',
     icon: adani,
-    iconBg: '#383E56',
+    iconBg: '#E6DEDD',
     date: 'July 2023 - September 2023',
     points: [
       'Completed a summer internship in Machine Learning using Python with A+ grade.',
