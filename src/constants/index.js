@@ -140,7 +140,7 @@ const experiences = [
   {
     title: 'Machine Learning Intern',
     company_name: 'Poornima Institute of Engineering and Technology',
-    icon: poornima,
+    icon: adani,
     iconBg: '#383E56',
     date: 'July 2023 - September 2023',
     points: [
