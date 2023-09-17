@@ -175,7 +175,7 @@ const testimonials = [
   },
   {
     testimonial:
-      'Eskinder is an exceptional AI expert, demonstrating unmatched talent in research, critical thinking, and harnessing PyTorch and Keras to their fullest potential.',
+      'Vikas is an exceptional AI expert, demonstrating unmatched talent in research, critical thinking, and harnessing PyTorch and Keras to their fullest potential.',
     name: 'Zakaria El Moutaki',
     designation: 'Standardization Researcher',
     company: 'Ericsson',
@@ -246,7 +246,7 @@ const projects = [
     ],
     image: market_predict,
     source_code_link:
-      'https://github.com/ESKINDERTSEGAYE/Project-Market-Value-Predictor',
+      'https://github.com/vikasharma005/Project-Market-Value-Predictor.git',
   },
 ];
 
