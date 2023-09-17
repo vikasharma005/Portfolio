@@ -115,7 +115,7 @@ const experiences = [
     title: 'Content Writer',
     company_name: 'GeeksforGeeks',
     icon: bn_software,
-    iconBg: '#383E56',
+    iconBg: '#008000',
     date: 'Jan 2023 - July 2023',
     points: [
       'Worked on Time Series-based Data Analysis for Taxi Service.',
@@ -140,7 +140,7 @@ const experiences = [
   {
     title: 'Machine Learning Intern',
     company_name: 'Poornima Institute of Engineering and Technology',
-    icon: microsoft,
+    icon: poornima,
     iconBg: '#383E56',
     date: 'July 2023 - September 2023',
     points: [
