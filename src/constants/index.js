@@ -127,7 +127,7 @@ const experiences = [
   {
     title: 'CEO & Founder',
     company_name: 'PIE STAR INTERACTIVE STUDIOS',
-    icon: adani,
+    icon: microsoft,
     iconBg: '#E6DEDD',
     date: 'Jan 2022 - Present',
     points: [
@@ -140,7 +140,7 @@ const experiences = [
   {
     title: 'Machine Learning Intern',
     company_name: 'Poornima Institute of Engineering and Technology',
-    icon: microsoft,
+    icon: poornima,
     iconBg: '#383E56',
     date: 'July 2023 - September 2023',
     points: [
