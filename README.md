@@ -2,7 +2,7 @@
 
 ![screen-shot](https://i.imgur.com/JHgrRn6.png)
 
-You can see a live preview of the Stunning 3D Portfolio Website [here](https://3d-portfolio-eskew.netlify.app).
+You can see a live preview of the Stunning 3D Portfolio Website [here](https://portfolio-vikasharma005.vercel.app/).
 
 > Welcome to the Stunning 3D Portfolio Website repository! This project aims to provide an immersive and visually striking portfolio website using cutting-edge technologies. Whether you're a designer, developer, or creative professional, this portfolio template will leave a lasting impression on your visitors.
 
@@ -20,7 +20,7 @@ To get started with the Stunning 3D Portfolio Website, follow these steps:
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/Andrew-Tsegaye/Stunning_3D_Portfolio_Website.git
+   git clone [https://github.com/Andrew-Tsegaye/Stunning_3D_Portfolio_Website.git](https://github.com/vikasharma005/Portfolio.git)
 ```
 2. Navigate to the project directory:
 ```bash
@@ -42,9 +42,3 @@ A huge thank you to the following resources and inspirations:
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - [TailwindCSS](https://tailwindcss.com)
 
-## Contact
-If you have any questions, or suggestions, or just want to say hi, you can reach out to the project maintainer:
-
-- Andrew Tsegaye
-- Email: andrewtsegaye7@gmail.com
-- Twitter: [@AndrewTsegaye](https://twitter.com/AndrewTsegaye).
