@@ -1,6 +1,7 @@
 # Stunning 3D Portfolio Website
 
-![screen-shot](https://i.imgur.com/JHgrRn6.png)
+![image](https://github.com/vikasharma005/Portfolio/assets/93978146/6b25d51b-5130-4a7c-ba8e-123bb44e0e9d)
+
 
 You can see a live preview of the Stunning 3D Portfolio Website [here](https://portfolio-vikasharma005.vercel.app/).
 
@@ -20,11 +21,11 @@ To get started with the Stunning 3D Portfolio Website, follow these steps:
 
 1. Clone this repository:
 ```bash
-   git clone [https://github.com/Andrew-Tsegaye/Stunning_3D_Portfolio_Website.git](https://github.com/vikasharma005/Portfolio.git)
+   git clone https://github.com/vikasharma005/Portfolio.git
 ```
 2. Navigate to the project directory:
 ```bash
-  cd Stunning_3D_Portfolio_Website
+  cd Portfolio
 ```
 3. Open the `index.html` file in your preferred web browser.
    
